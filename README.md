@@ -1,4 +1,4 @@
-# Hi there, I’m Mohamed! 👋  
+# Hi, I’m Mohamed! 👋  
 
 🎨 **Frontend Developer | Egypt**  
 
