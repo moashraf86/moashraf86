@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I’m a passionate frontend developer from Egypt w
 
 ## 🚀 About Me
 
-🔹 Frontend Specialist – I turn creative designs into dynamic, pixel-perfect applications.
-🔹 React & Next.js Enthusiast – Building fast, scalable, and SEO-friendly web solutions.
-🔹 State Management Guru – Skilled in Zustand, Redux, and Tanstack Query for smooth data handling.
-🔹 Passionate about Open Source & Learning – Always exploring new tech stacks and best practices.
-🔹 UI/UX Oriented – Expert in crafting intuitive interfaces with Figma, TailwindCSS, and Radix UI.
+- 🔹 Frontend Specialist – I turn creative designs into dynamic, pixel-perfect applications.
+- 🔹 React & Next.js Enthusiast – Building fast, scalable, and SEO-friendly web solutions.
+- 🔹 State Management Guru – Skilled in Zustand, Redux, and Tanstack Query for smooth data handling.
+- 🔹 Passionate about Open Source & Learning – Always exploring new tech stacks and best practices.
+- 🔹 UI/UX Oriented – Expert in crafting intuitive interfaces with Figma, TailwindCSS, and Radix UI.
 
 ## 🛠️ Technical Skills
 
