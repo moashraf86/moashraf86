@@ -34,13 +34,14 @@ Welcome to my GitHub profile! I’m a passionate frontend developer from Egypt w
 
 ### 🔧 Backend & Database  
 
+[![Strapi](https://img.shields.io/badge/Strapi-4945ff?style=for-the-badge&logo=strapi&logoColor=white)](https://strapi.io/)  
 [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
-[![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)  
 
 ### 🛠️ State Management  
 
 [![Zustand](https://img.shields.io/badge/Zustand-764ABC?style=for-the-badge&logo=zustand&logoColor=white)](https://zustand-demo.pmnd.rs/)
+[![SWR](https://img.shields.io/badge/swr-000?style=for-the-badge&logo=swr&logoColor=white)](https://swr.vercel.app/)
 [![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)](https://tanstack.com/query/latest)
 [![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)  
 
