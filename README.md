@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I’m a passionate frontend developer from Egypt w
 
 ### 🔧 Backend & Database  
 
-[![Strapi](https://img.shields.io/badge/Strapi-4945ff?style=for-the-badge&logo=strapi&logoColor=white)](https://strapi.io/)  
+[![Strapi](https://img.shields.io/badge/Strapi-4945ff?style=for-the-badge&logo=strapi&logoColor=white)](https://strapi.io/) 
 [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)  
 
