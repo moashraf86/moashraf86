@@ -1,6 +1,6 @@
 # Hi, I’m Mohamed! 👋  
 
-🎨 **Frontend Developer | Egypt**  
+🎨 **Frontend Developer | Dubai, UAE**  
 
 Welcome to my GitHub profile! I’m a passionate frontend developer from Egypt with over 4 years of experience in crafting high-quality, scalable, and visually stunning web applications. I specialize in modern web technologies, performance optimization, and UI/UX design, ensuring seamless user experiences.  
 
