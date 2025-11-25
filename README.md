@@ -57,7 +57,7 @@ Welcome to my GitHub profile! I’m a passionate frontend developer from Egypt w
 ## 🌍 Let’s Connect!  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ashraf-292124190/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.mohammed.ashraf@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moashraf86.dev@gmail.com)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01968000010adee9ee)  
 
 💬 Feel free to reach out if you’re interested in collaborating or just want to connect!  
